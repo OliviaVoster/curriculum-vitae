@@ -1,8 +1,8 @@
-# CV
+# curriculum-vitae
 
 Static personal site hosted on GitHub Pages from the `main` branch.
 
-Live at https://oliviavoster.github.io/CV/
+Live at https://oliviavoster.github.io/curriculum-vitae/
 
 ## Layout
 
@@ -10,7 +10,7 @@ Pages serves the repo root, so whatever sits at the root **is** the live site.
 
 | Path | Serves at | Purpose |
 |---|---|---|
-| `index.html` | `/CV/` | The CV — the live site |
+| `index.html` | `/curriculum-vitae/` | The CV — the live site |
 | `styles.css` | | All styling for it |
 | `assets/` | | Images |
 | `.nojekyll` | — | Tells Pages to serve files as-is instead of running Jekyll |
@@ -24,7 +24,7 @@ own HTML, CSS and images inside it:
     v2/styles.css
     v2/assets/
 
-It is live at `/CV/v2/` as soon as it is pushed, and the root stays exactly as
+It is live at `/curriculum-vitae/v2/` as soon as it is pushed, and the root stays exactly as
 it is while you work. Nothing at the root is touched, so the live CV cannot
 break.
 
